@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "676971482036",
+    "project_id": "oncall-54894",
+    "storage_bucket": "oncall-54894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676971482036:android:928cbb2c774341f9de00e1",
+        "android_client_info": {
+          "package_name": "com.kernowsoftware.myteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676971482036-439skris2qljrfbhtrdspup00irgvte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYDrbSsP_ZjmI3SnlrSQLHbnqc8ntCdHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676971482036-439skris2qljrfbhtrdspup00irgvte4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676971482036-m5la7inatbbapsf6lte7sj8o6ic6kdnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kernowaoftware.myteam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
