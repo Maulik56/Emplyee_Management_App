@@ -57,6 +57,9 @@ dependencies:
   # To handle loader while API is being called(UI):
   flutter_progress_hud: ^2.0.2
 
+  # To get app info:
+  package_info_plus: ^3.0.3
+
   # To manage cache in the app:
   flutter_cache_manager: ^3.3.0
 
